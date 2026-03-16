@@ -74,8 +74,6 @@ Features
 ## Possible Future Extensions Potential additions include: 
   -
 
-      rotations about X and Y axes
-
       generalized N×N matrix class
   
       Gram–Schmidt orthogonalization
